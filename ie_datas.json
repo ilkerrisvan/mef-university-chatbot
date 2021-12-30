@@ -1,0 +1,211 @@
+[
+    {
+        "tag" : "ie492",
+        "questions" :
+            [
+                "IE 492 almak için hangi dersleri vermiş olmam gerekiyor?",
+                "IE 492 almak için ön şartlar nedir?",
+                "IE Senior Design Project II ön koşulları nelerdir?",
+                "IE Senior Design Project 2 ön koşulları nelerdir?",
+                "IE 491 almadan IE 492 alabilir miyim?",
+                "IE 491 dersini almadan IE 492 alınır mı?"
+            ],
+        "answers" :
+            [
+                "Senior Design II dersinin alınabilmesi için Senior Design Project I dersinin başarı ile tamamlanmış olması gerekmektedir."
+
+            ]
+    },
+    {
+        "tag" : "ie491",
+        "questions" :
+            [
+                "4. Sınıf olmadan IE 491 alabilir miyim?",
+                "IE 491 almanın ön şartları nedir?",
+                "Bitirme dersini almak için ne gerekli?",
+                "Kaç kredi ile bitirme alınabilir?",
+                "Senior Design Project I ön koşulları nelerdir?",
+                "Bitirmeyi nasıl alabilirim?"
+            ],
+        "answers" :
+            [
+                "Senior Design I dersinin alınabilmesi için öğrencinin kredi bazında dördüncü sınıf öğrencisi olması gerekmektedir."
+            ]
+    },
+    {
+        "tag" : "ie306",
+        "questions" :
+            [
+                "IE 306 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "IE 306 almak için ön şart var mı?",
+                "Supply Chain Management dersinin ön koşulları nelerdir?",
+                "IE 306 ön şartları nedir?",
+                "Supply Chain Management dersi hangi derslerle bağlı?",
+                "Supply Chain Management dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "IE 306 kodlu Supply Chain Management dersinin alınabilmesi için IE 303 kodlu Production Planning and Control dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "ie304",
+        "questions" :
+            [
+                "IE 304 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "IE 304 almak için ön şart var mı?",
+                "Simulation dersinin ön koşulları nelerdir?",
+                "IE 304 ön şartları nedir?",
+                "Simulation dersi hangi derslerle bağlı?",
+                "Simulation dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "IE 304 kodlu Simulation dersinin alınabilmesi için MATH 228 kodlu Probability and Statistics for Engineering II dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "ie302",
+        "questions" :
+            [
+                "IE 302 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "IE 302 almak için ön şart var mı?",
+                "Quality Engineering dersinin ön koşulları nelerdir?",
+                "IE 302 ön şartları nedir?",
+                "Quality Engineering dersi hangi derslerle bağlı?",
+                "Quality Engineering dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "IE 302 kodlu Quality Engineering dersinin alınabilmesi için MATH 228 kodlu Probability and Statistics for Engineering II dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "math228",
+        "questions" :
+            [
+                "MATH 228 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "MATH 228 almak için ön şart var mı?",
+                "Probability and Statistics for Engineering II dersinin ön koşulları nelerdir?",
+                "MATH 228 ön şartları nedir?",
+                "Probability and Statistics for Engineering II dersi hangi derslerle bağlı?",
+                "Probability and Statistics for Engineering 2 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "MATH 228 kodlu Probability and Statistics for Engineering II dersinin alınabilmesi için MATH 227 kodlu Probability and Statistics for Engineering I dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "ie208",
+        "questions" :
+            [
+                "IE 208 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "IE 208 almak için ön şart var mı?",
+                "Operations and Facilities Design dersinin ön koşulları nelerdir?",
+                "IE 208 ön şartları nedir?",
+                "Operations and Facilities Design dersi hangi derslerle bağlı?",
+                "Operations and Facilities Design dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "IE 208 kodlu Operations and Facilities Design dersinin alınabilmesi için IE 202 kodlu Operations Research I dersi yan koşul olarak sağlanmalıdır."
+            ]
+    },
+    {
+        "tag" : "ie202",
+        "questions" :
+            [
+                "IE 202 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "IE 202 almak için ön şart var mı?",
+                "Operations Research I dersinin ön koşulları nelerdir?",
+                "IE 202 ön şartları nedir?",
+                "Operations Research I dersi hangi derslerle bağlı?",
+                "Operations Research 1 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "IE 202 kodlu Operations Research I dersinin alınabilmesi için MATH 221 kodlu Linear Algebra dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "ie104",
+        "questions" :
+            [
+                "IE 104 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "IE 104 almak için ön şart var mı?",
+                "Computational Methods for Industrial Engineering dersinin ön koşulları nelerdir?",
+                "IE 104 ön şartları nedir?",
+                "Computational Methods for Industrial Engineering dersi hangi derslerle bağlı?",
+                "Computational Methods for Industrial Engineering dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "IE 104 kodlu Computational Methods for Industrial Engineering dersinin alınabilmesi için COMP 109 kodlu Computer Programming (JAVA) dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "phys104",
+        "questions" :
+            [
+                "PHYS 104 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "PHYS 104 almak için ön şart var mı?",
+                "Physics II dersinin ön koşulları nelerdir?",
+                "PHYS 104 ön şartları nedir?",
+                "Physics II dersi hangi derslerle bağlı?",
+                "Physics 2 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "PHYS 104 kodlu Physics II dersinin alınabilmesi için PHYS 104L kodlu Physics II Lab dersi yan koşul olarak sağlanmalıdır. "
+            ]
+    },
+    {
+        "tag" : "phys104l",
+        "questions" :
+            [
+                "PHYS 104L dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "PHYS 104L almak için ön şart var mı?",
+                "Physics II Lab dersinin ön koşulları nelerdir?",
+                "PHYS 104L ön şartları nedir?",
+                "Physics II Lab dersi hangi derslerle bağlı?",
+                "Physics 2 Lab dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "PHYS 104L kodlu Physics II Lab dersinin alınabilmesi için PHYS 104 kodlu Physics II dersi yan koşul olarak sağlanmalıdır. "
+            ]
+    },
+    {
+        "tag" : "phys103",
+        "questions" :
+            [
+                "PHYS 103 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "PHYS 103 almak için ön şart var mı?",
+                "Physics I dersinin ön koşulları nelerdir?",
+                "PHYS 103 ön şartları nedir?",
+                "Physics I dersi hangi derslerle bağlı?",
+                "Physics 1 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "PHYS 103 kodlu Physics I dersinin alınabilmesi için PHYS 103L kodlu Physics I Lab dersi yan koşul olarak sağlanmalıdır. "
+            ]
+    },
+    {
+        "tag" : "phys103l",
+        "questions" :
+            [
+                "PHYS 103L dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "PHYS 103L almak için ön şart var mı?",
+                "Physics I Lab dersinin ön koşulları nelerdir?",
+                "PHYS 103L ön şartları nedir?",
+                "Physics I Lab dersi hangi derslerle bağlı?",
+                "Physics 1 Lab dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "PHYS 103L kodlu Physics I Lab dersinin alınabilmesi için PHYS 103 kodlu Physics I dersi yan koşul olarak sağlanmalıdır. "
+            ]
+    }
+]

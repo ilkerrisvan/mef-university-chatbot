@@ -1,0 +1,225 @@
+[
+ {  "tag" : "me492",
+    "questions" :
+        [
+            "ME 492 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+            "ME 492 almak için ön şart var mı?",
+            "Senior Design Project dersinin ön koşulları nelerdir?",
+            "ME 492 ön şartları nedir?",
+            "Senior Design Project dersi hangi derslerle bağlı?",
+            "Senior Design Project dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+        ],
+    "answers" :
+        [
+            "ME 492 kodlu Senior Design Project dersinin alınabilmesi için son sınıf öğrencisi olunması gerekmektedir."
+        ]
+},
+{
+    "tag" : "me405",
+    "questions" :
+        [
+            "ME 405 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+            "ME 405 almak için ön şart var mı?",
+            "Machine Design II dersinin ön koşulları nelerdir?",
+            "ME 405 ön şartları nedir?",
+            "Machine Design II dersi hangi derslerle bağlı?",
+            "Machine Design 2 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+        ],
+    "answers" :
+        [
+            "ME 405 kodlu Machine Design II dersinin alınabilmesi için ME 305 kodlu Machine Design I dersinin başarı ile tamamlanmış olması gerekmektedir."
+        ]
+},
+{
+    "tag" : "me491",
+    "questions" :
+        [
+            "ME 491 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+            "ME 491 almak için ön şart var mı?",
+            "Mechanical and Thermofluids Systems Design dersinin ön koşulları nelerdir?",
+            "ME 491 ön şartları nedir?",
+            "Mechanical and Thermofluids Systems Design dersi hangi derslerle bağlı?",
+            "Mechanical and Thermofluids Systems Design dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+        ],
+    "answers" :
+        [
+            "ME 491 kodlu Mechanical and Thermofluids Systems Design dersinin alınabilmesi için son sınıf öğrencisi olunması gerekmektedir."
+        ]
+},
+{
+    "tag" : "me403",
+    "questions" :
+        [
+            "ME 403 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+            "ME 403 almak için ön şart var mı?",
+            "Mechanical Engineering Laboratory dersinin ön koşulları nelerdir?",
+            "ME 403 ön şartları nedir?",
+            "Mechanical Engineering Laboratory dersi hangi derslerle bağlı?",
+            "Mechanical Engineering Laboratory dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+        ],
+    "answers" :
+        [
+            "ME 403 kodlu Mechanical Engineering Laboratory dersinin alınabilmesi için ME 307 kodlu Measurement Techniques dersinin başarı ile tamamlanmış olması gerekmektedir."
+        ]
+},
+{
+    "tag" : "me307",
+    "questions" :
+        [
+            "ME 307 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+            "ME 307 almak için ön şart var mı?",
+            "Measurement Techniques dersinin ön koşulları nelerdir?",
+            "ME 307 ön şartları nedir?",
+            "Measurement Techniques dersi hangi derslerle bağlı?",
+            "Measurement Techniques dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+        ],
+    "answers" :
+        [
+            "ME 307 kodlu Measurement Techniques dersinin alınabilmesi için PHYS 104 kodlu Physics II dersinin başarı ile tamamlanmış olması gerekmektedir."
+        ]
+},
+{
+    "tag" : "me307",
+    "questions" :
+        [
+            "ME 307 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+            "ME 307 almak için ön şart var mı?",
+            "Measurement Techniques dersinin ön koşulları nelerdir?",
+            "ME 307 ön şartları nedir?",
+            "Measurement Techniques dersi hangi derslerle bağlı?",
+            "Measurement Techniques dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+        ],
+    "answers" :
+        [
+            "ME 307 kodlu Measurement Techniques dersinin alınabilmesi için PHYS 104 kodlu Physics II dersinin başarı ile tamamlanmış olması gerekmektedir."
+        ]
+},
+{
+    "tag" : "me305",
+    "questions" :
+        [
+            "ME 305 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+            "ME 305 almak için ön şart var mı?",
+            "Machine Design I dersinin ön koşulları nelerdir?",
+            "ME 305 ön şartları nedir?",
+            "Machine Design I dersi hangi derslerle bağlı?",
+            "Machine Design 1 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+        ],
+    "answers" :
+        [
+            "ME 305 kodlu Machine Design I dersinin alınabilmesi için ME 102 kodlu Computer Aided Technical Drawing ve STM 203 kodlu Strength of Materials derslerin başarı ile tamamlanmış olması gerekmektedir."
+        ]
+},
+{
+    "tag" : "cme302",
+    "questions" :
+        [
+            "CME 302 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+            "CME 302 almak için ön şart var mı?",
+            "Computational Methods in Engineering dersinin ön koşulları nelerdir?",
+            "CME 302 ön şartları nedir?",
+            "Computational Methods in Engineering dersi hangi derslerle bağlı?",
+            "Computational Methods in Engineering dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+        ],
+    "answers" :
+        [
+            "CME 302 kodlu Computational Methods in Engineering dersinin alınabilmesi için MATH 115 kodlu Calculus I ve COMP 107 kodlu Computer Programming (Matlab) derslerin başarı ile tamamlanmış olması gerekmektedir."
+        ]
+},
+{
+    "tag" : "me303",
+    "questions" :
+        [
+            "ME 303 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+            "ME 303 almak için ön şart var mı?",
+            "System Dynamics and Control dersinin ön koşulları nelerdir?",
+            "ME 303 ön şartları nedir?",
+            "System Dynamics and Control dersi hangi derslerle bağlı?",
+            "System Dynamics and Control dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+        ],
+    "answers" :
+        [
+            "ME 303 kodlu System Dynamics and Control dersinin alınabilmesi için DYN 201 kodlu Engineering Mechanics: Dynamics,MATH 213 kodlu Differential Equations ve EE 212 kodlu Electrical and Electronic Circuits derslerin başarı ile tamamlanmış olması gerekmektedir."
+        ]
+},
+{
+    "tag" : "me309",
+    "questions" :
+        [
+            "ME 309 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+            "ME 309 almak için ön şart var mı?",
+            "Manufacturing Processes dersinin ön koşulları nelerdir?",
+            "ME 309 ön şartları nedir?",
+            "Manufacturing Processes dersi hangi derslerle bağlı?",
+            "Manufacturing Processes dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+        ],
+    "answers" :
+        [
+            "ME 309 kodlu Manufacturing Processes dersinin alınabilmesi için ME 102 kodlu Computer Aided Technical Drawing ve MATS 202 kodlu Materials Science derslerin başarı ile tamamlanmış olması gerekmektedir."
+        ]
+},
+{
+    "tag" : "me306",
+    "questions" :
+        [
+            "ME 306 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+            "ME 306 almak için ön şart var mı?",
+            "Heat Transfer dersinin ön koşulları nelerdir?",
+            "ME 306 ön şartları nedir?",
+            "Heat Transfer dersi hangi derslerle bağlı?",
+            "Heat Transfer dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+        ],
+    "answers" :
+        [
+            "ME 306 kodlu Heat Transfer dersinin alınabilmesi için THER 204 kodlu Thermodynamics dersin başarı ile tamamlanmış olması gerekmektedir."
+        ]
+},
+{
+    "tag" : "flm301",
+    "questions" :
+        [
+            "FLM 301 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+            "FLM 301 almak için ön şart var mı?",
+            "Fluid Mechanics dersinin ön koşulları nelerdir?",
+            "FLM 301 ön şartları nedir?",
+            "Fluid Mechanics dersi hangi derslerle bağlı?",
+            "Fluid Mechanics dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+        ],
+    "answers" :
+        [
+            "FLM 301 kodlu Fluid Mechanics dersinin alınabilmesi için PHYS 103 kodlu Physics I ve MATH 213 kodlu Differential Equations derslerin başarı ile tamamlanmış olması gerekmektedir."
+        ]
+},
+{
+    "tag" : "stm203",
+    "questions" :
+        [
+            "STM 203 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+            "STM 203 almak için ön şart var mı?",
+            "Strength of Materials dersinin ön koşulları nelerdir?",
+            "STM 203 ön şartları nedir?",
+            "Strength of Materials dersi hangi derslerle bağlı?",
+            "Strength of Materials dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+        ],
+    "answers" :
+        [
+            "STM 203 kodlu Strength of Materials dersinin alınabilmesi için STAT 102 kodlu Engineering Mechanics: Statics dersi başarı ile tamamlanmış olması gerekmektedir."
+        ]
+},
+{
+    "tag" : "ther204",
+    "questions" :
+        [
+            "THER 204 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+            "THER 204 almak için ön şart var mı?",
+            "Thermodynamics dersinin ön koşulları nelerdir?",
+            "THER 204 ön şartları nedir?",
+            "Thermodynamics dersi hangi derslerle bağlı?",
+            "Thermodynamics dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+        ],
+    "answers" :
+        [
+            "THER 204 kodlu Thermodynamics dersinin alınabilmesi için MATH 116 kodlu Calculus II dersi başarı ile tamamlanmış olması gerekmektedir."
+        ]
+}
+]

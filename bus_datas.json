@@ -1,0 +1,290 @@
+[
+    {
+        "tag" : "bus402",
+        "questions" :
+            [
+                "BUS 402 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "BUS 402 almak için ön şart var mı?",
+                "Business Project II dersinin ön koşulları nelerdir?",
+                "BUS 402 ön şartları nedir?",
+                "Business Project 2 dersi hangi derslerle bağlı?",
+                "Business Project 2 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "BUS 402 kodlu Business Project II dersinin alınabilmesi için BUS 206 kodlu Business Practice II dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "mgmt401",
+        "questions" :
+            [
+                "MGMT 401 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "MGMT 401almak için ön şart var mı?",
+                "Technology and Innovation Management dersinin ön koşulları nelerdir?",
+                "EMGMT 401 ön şartları nedir?",
+                "Technology and Innovation Management dersi hangi derslerle bağlı?",
+                "Technology and Innovation Management dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "MGMT 401 kodlu Finansal Ekonomi dersinin alınabilmesi için BUS 206 kodlu Business Practice II ve MGMT 203 kodlu Organizational Behaviour derslerinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "mgmt401",
+        "questions" :
+            [
+                "BUS 401 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "BUS 401 almak için ön şart var mı?",
+                "Business Project I dersinin ön koşulları nelerdir?",
+                "BUS 401 ön şartları nedir?",
+                "Business Project 1 dersi hangi derslerle bağlı?",
+                "Business Project 1 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "BUS 401 kodlu Business Project I dersinin alınabilmesi için BUS 206 kodlu Business Practice II dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "mgmt402",
+        "questions" :
+            [
+                "MGMT 402 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "MGMT 402 almak için ön şart var mı?",
+                "Business Strategies in the Local and Global Context dersinin ön koşulları nelerdir?",
+                "MGMT 402 ön şartları nedir?",
+                "Business Strategies in the Local and Global Context dersi hangi derslerle bağlı?",
+                "Business Strategies in the Local and Global Context dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "MGMT 402 kodlu Business Strategies in the Local and Global Context dersinin alınabilmesi için MGMT 302 kodlu International Business dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "bus302",
+        "questions" :
+            [
+                "BUS 302 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "BUS 302 almak için ön şart var mı?",
+                "Business Communications dersinin ön koşulları nelerdir?",
+                "BUS 302 ön şartları nedir?",
+                "Business Communications dersi hangi derslerle bağlı?",
+                "Business Communications dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "BUS 302 kodlu Business Communications dersinin alınabilmesi için ENG 102 kodlu English for Academic Purposes II dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "mgmt302",
+        "questions" :
+            [
+                "MGMT 302 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "MGMT 302almak için ön şart var mı?",
+                "International Business dersinin ön koşulları nelerdir?",
+                "MGMT 302 ön şartları nedir?",
+                "International Business dersi hangi derslerle bağlı?",
+                "International Business dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "MGMT 302 kodlu International Business dersinin alınabilmesi için MGMT 201 kodlu Marketing ve MGMT 203 kodlu Organizational Behaviour derslerinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "mgmt301",
+        "questions" :
+            [
+                "MGMT 301 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "MGMT 301 almak için ön şart var mı?",
+                "Human Resources Management dersinin ön koşulları nelerdir?",
+                "MGMT 301 ön şartları nedir?",
+                "Human Resources Management dersi hangi derslerle bağlı?",
+                "Human Resources Management dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "MGMT 301 kodlu Human Resources Management dersinin alınabilmesi için MGMT 203 kodlu Organizational Behaviour dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "mis301",
+        "questions" :
+            [
+                "MIS 301 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "MIS 301 almak için ön şart var mı?",
+                "Management Information Systems dersinin ön koşulları nelerdir?",
+                "MIS 301 ön şartları nedir?",
+                "Management Information Systems dersi hangi derslerle bağlı?",
+                "Management Information Systems dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "MIS 301 kodlu Management Information Systems dersinin alınabilmesi için BUS 101 kodlu Introduction to Business (Decision-making) dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "entr301",
+        "questions" :
+            [
+                "ENTR 301 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ENTR 301 almak için ön şart var mı?",
+                "Entrepreneurship dersinin ön koşulları nelerdir?",
+                "ENTR 301 ön şartları nedir?",
+                "Entrepreneurship dersi hangi derslerle bağlı?",
+                "Entrepreneurship dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ENTR 301 kodlu Entrepreneurship dersinin alınabilmesi için BUS 101 kodlu Introduction to Business (Decision-making) dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "mgmt204",
+        "questions" :
+            [
+                "MGMT 204 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "MGMT 204 almak için ön şart var mı?",
+                "Organizational Theory dersinin ön koşulları nelerdir?",
+                "MGMT 204 ön şartları nedir?",
+                "Organizational Theory dersi hangi derslerle bağlı?",
+                "Organizational Theory dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "MGMT 204 kodlu Organizational Theory dersinin alınabilmesi için MGMT 203 kodlu Organizational Behaviour dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "mgmt204",
+        "questions" :
+            [
+                "MGMT 204 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "MGMT 204 almak için ön şart var mı?",
+                "Organizational Theory dersinin ön koşulları nelerdir?",
+                "MGMT 204 ön şartları nedir?",
+                "Organizational Theory dersi hangi derslerle bağlı?",
+                "Organizational Theory dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "MGMT 204 kodlu Organizational Theory dersinin alınabilmesi için MGMT 203 kodlu Organizational Behaviour dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "oper202",
+        "questions" :
+            [
+                "OPER 202 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "OPER 202 almak için ön şart var mı?",
+                "Operations Management dersinin ön koşulları nelerdir?",
+                "OPER 202 ön şartları nedir?",
+                "Operations Management dersi hangi derslerle bağlı?",
+                "Operations Management dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "OPER 202 kodlu Operations Management dersinin alınabilmesi için MATH 103 kodlu Mathematics for Social Sciences I ve MATH 203 kodlu Probability and Statistics for Social Sciences I derslerin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "fin204",
+        "questions" :
+            [
+                "FIN 204 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "FIN 204 almak için ön şart var mı?",
+                "Corporate Finance dersinin ön koşulları nelerdir?",
+                "FIN 204 ön şartları nedir?",
+                "Corporate Finance dersi hangi derslerle bağlı?",
+                "Corporate Finance dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "FIN 204 kodlu Corporate Finance dersinin alınabilmesi için MATH 104 kodlu Mathematics for Social Sciences II ve ACCT 201 kodlu Financial Accounting derslerin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "acct202",
+        "questions" :
+            [
+                "ACCT 202 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ACCT 202 almak için ön şart var mı?",
+                "Managerial Accounting dersinin ön koşulları nelerdir?",
+                "ACCT 202 ön şartları nedir?",
+                "Managerial Accounting dersi hangi derslerle bağlı?",
+                "Managerial Accounting dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ACCT 202 kodlu Managerial Accounting dersinin alınabilmesi için ACCT 201 kodlu Financial Accounting dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "math204",
+        "questions" :
+            [
+                "MATH 204 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "MATH 204 almak için ön şart var mı?",
+                "Probability and Statistics for Social Sciences II dersinin ön koşulları nelerdir?",
+                "MATH 204 ön şartları nedir?",
+                "Probability and Statistics for Social Sciences 2 dersi hangi derslerle bağlı?",
+                "Probability and Statistics for Social Sciences 2 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "MATH 204 kodlu Probability and Statistics for Social Sciences II dersinin alınabilmesi için MATH 203 kodlu Probability and Statistics for Social Sciences I dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "mktg201",
+        "questions" :
+            [
+                "MKTG 201 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "MKTG 201 almak için ön şart var mı?",
+                "Marketing  dersinin ön koşulları nelerdir?",
+                "MKTG 201 ön şartları nedir?",
+                "Marketing dersi hangi derslerle bağlı?",
+                "Marketing dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "MKTG 201 kodlu Marketing dersinin alınabilmesi için BUS 101 kodlu Introduction to Business (Decision-making) dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "acct201",
+        "questions" :
+            [
+                "ACCT 201 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ACCT 201 almak için ön şart var mı?",
+                "Financial Accounting dersinin ön koşulları nelerdir?",
+                "ACCT 201 ön şartları nedir?",
+                "Financial Accounting dersi hangi derslerle bağlı?",
+                "Financial Accounting dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ACCT 201 kodlu Financial Accounting dersinin alınabilmesi için BUS 101 kodlu Introduction to Business (Decision-making) ve ECON 101 kodlu Microeconomics derslerin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "math104",
+        "questions" :
+            [
+                "MATH 104 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "MATH 104 almak için ön şart var mı?",
+                "Mathematics for Social Sciences II dersinin ön koşulları nelerdir?",
+                "MATH 104 ön şartları nedir?",
+                "Mathematics for Social Sciences 2 dersi hangi derslerle bağlı?",
+                "Mathematics for Social Sciences 2 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "MATH 104 kodlu Mathematics for Social Sciences II dersinin alınabilmesi için MATH 103 kodlu Mathematics for Social Sciences I dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    }
+]    

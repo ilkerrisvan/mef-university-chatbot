@@ -1,0 +1,586 @@
+[
+    {
+      "tag": "hazirlik_akademik_yil" ,
+      "questions":
+      [
+          "İngilizce hazırlık akademik yılı hakkında bilgi ver",
+          "Hazırlık dönemi kayıt, ders, sınav tarihleri ne zamandır",
+      ],
+      "answers":
+      [
+          "İngilizce Hazırlık Programındaki kayıt, ders, sınav ve benzeri faaliyetlere ilişkin süre ve tarihler, Senato tarafından onaylanan akademik takvimde belirtilir.Tüm ilgililer bu takvime uymakla yükümlüdür."
+
+      ]
+    },
+    {
+      "tag": "hazirlik_ogrenim_suresi" ,
+      "questions":
+      [
+          "Hazırlık programının süresi ne kadardır ?",
+          "Hazırlığın süresi ne kadar ?",
+          "Hazırlık bölümünün süresi ne kadar ?",
+          "İngilizce hazırlık programının normal öğrenim süresi ne kadardır ?",
+          "Hazırlık programını ne kadar okumam gerek",
+          "Hazırlık bölümü kaç sene"
+      ],
+      "answers":
+      [
+          " İngilizce Hazırlık Programının normal öğrenim süresi bir akademik yıl, azami öğrenim süresi iki akademik yıldır. "
+      ]
+    },
+    {
+        "tag": "hazirlik_ogrenim_suresi_lisans_sayilir_mi" ,
+        "questions":
+        [
+            "Hazırlık okudum gene 4 senede okulu bitirebilir miyim?",
+            "Hazırlıkta geçirilen süre lisans süresinden düşer mi",
+            "Hazırlık süresi lisans süresine dahil mi",
+            "İngilizce hazırlık programının süresi lisans programına dahil mi",
+            "İngilizce hazırlık lisans süresi dahil edilir mi"
+        ],
+        "answers":
+        [
+            "İngilizce Hazırlık Programında geçirilen süreler lisans öğrenimi süresinden sayılmaz."
+        ]
+    },
+    {
+        "tag": "hazirlik_duzeyler" ,
+        "questions":
+        [
+            "Hazırlığın bölümleri var mı",
+            "Hazırlık programında seviye düzeyi var mı",
+            "İngilizce hazırlık programında seviye düzeyi var mı",
+            "Hazırlık programında ki seviye düzeyleri nelerdir",
+            "Hazırlık programındaki seviyelerin akademik süreleri farklı mı",
+            "Hazırlıkta farklı seviyelerde farklı süreler mi var",
+            "Orta üstü düzeydeyim hazırlığı erken bitirebilir miyim",
+            "Hazırlığı nasıl erken bitirebilirim",
+            "İngilizce hazırlık erken bitirme",
+            "Hazırlıkta her bir düzeyin ders saati ne kadardır",
+            "İngilizce hazırlıkta her bir seviyenin derst saati aynı mı",
+            "İngilizce hazırlık haftalık ders saati",
+            "Hazırlık haftalık ders saati"
+        ],
+        "answers":
+        [
+            "İngilizce Hazırlık Programı sırasıyla başlangıç, orta öncesi, orta ve orta üstü olmak üzere dört düzeyden oluşur. Güz ve bahar dönemlerinde her bir düzeyin süresi yarım dönem olup, orta üstü düzeyin süresi, bu düzeye dönem başında başlayanlar için bir dönemdir. Her bir düzeyin haftalık ders saati, 20 saatin altında kalmamak şartıyla,Yabancı Diller Bölümü tarafından belirlenir. "
+        ]
+    },
+    {
+        "tag": "hazirlik_yaz_okulu" ,
+        "questions":
+        [
+            "Hazırlıkta yazın ders alabilir miyim",
+            "Hazırlık için yaz okulu var mı",
+            "Yaz okulu hazırlık",
+            "İngilizce hazırlık için yaz okulu",
+            "Hazırlıkta okuyorum yazın ders seçebilir miyim",
+            "Bu sene hazırlığı bitiricem yazın üstten ders alabilir miyim",
+            "Hazırlık için yaz okulu ücreti nedir",
+            "İngilizce hazırlık programı yaz okulu ücreti nedir",
+            "Hazırlıkta kaldım yazın tekrar alabilir miyim",
+            "Yaz döneminde ders alarak hazırlığı bitirebilir miyim",
+            "Hazırlık öğrencileri yaz döneminde ders alabilir mi",
+        ],
+        "answers":
+        [
+            "Öğrenciler yaz okulunda sadece bir düzeyde ders alabilirler. Yaz okulunda açılacak düzeyler, Yabancı Diller Bölümü tarafından belirlenir. Yaz okuluna,İngilizce Hazırlık Programında derslere kayıtlı olarak öğrenime devam eden Üniversite öğrencileri katılabilir. Yaz okulu öğrenim ücreti, öğrencinin ödemekle yükümlü olduğu dönem öğrenim ücretinin yarısıdır."
+        ]
+    },
+    {
+        "tag": "hazirlik_lisans_gecis" ,
+        "questions":
+        [
+            "Lisans geçmek için hazırlıktan mezun olmam gerekli mi",
+            "Lisansa nasıl geçebilirim",
+            "Lisans programına kabul şartları nelerdir",
+            "Lisans programı için ingilizce yeterlilik düzeyi nedir",
+            "Lisans için gerekli ingilizce seviyesi nedir"
+        ],
+        "answers":
+        [
+            " Üniversitenin lisans programlarına kabul edilen öğrencilerin İngilizce yeterlik ve düzeyleri, Üniversiteye kayıt yaptırdıkları akademik yılın başında Yabancı Diller Bölümü tarafından iki aşamalı olarak düzenlenen İngilizce Yeterlik ve Seviye Tespit Sınavı ile belirlenir. Sınavlar, akademik takvimde belirtilen tarihlerde yapılır."
+        ]
+    },
+    {
+        "tag": "hazirlik_basari_puani" ,
+        "questions":
+        [
+            "Hazırlık sınavında başarılı olmak için gerekli puan kaç",
+            "İngilizce hazırlık programı geçiş puanı",
+            "Hazırlık geçme notu",
+            "Hazırlık geçme puanı",
+            "İngilizce hazırlık geçme notu",
+            "İngilizce hazırlık geçme puanı",
+            "Bir öğrenci hazırlığı başarıyla geçmek için sınavdan ne kadar puan almalıdır",
+            "Hazırlık sınavı geçme puanı",
+            "İngilizce hazırlık sınavı geçiş seviye puanı",
+            "ingilizce hazırlık seviye tespit sınavı puanı",
+            "Hazırlık seviye tespit sınavı puanı",
+            "Lisansa direkt geçiş yapmak için hazırlık seviye tespit sınavından kaç puan almak gerekiyor",
+            "hazırlık sınavında başarılı olmak için gereken puan kaçtır",
+            "hazırlık seviye tespit sınavında başarılı olmak için gereken puanlar kim tarafından belirlenir",
+            "hazırlık programı ingilizce yeterlilik sınavına giremedim ne yapmam lazım",
+            "ingilizce hazırlık sınacına giremedim ne yapmam lazım",
+            "ingilizce yeterlilik sınavını kaçırdım ne yapmam gerekiyor",
+            "hazırlık seviye tespit sınavına giremeyenler ne yapmalı",
+            "hazırlık programı yeterlilik sınavına giremeyenler kalır mı",
+            "hazırlık programı seviye tespit sınavını kaçırdım",
+            "ingilizce hazırlık sınavında yeterli puanı alamazsan ne olur",
+            "hazırlık seviye tespit sınavında başarısız olursam ne olur",
+            "hazırlık seviye tespit sınavından kalırsam ne olur",
+            "seviye tespit sınavından yeterli puanı alamadım ne yapmam lazım",
+            "ingilizce yeterlik ve seviye tespit sınavında başarısız olanlar ne yapmalıdırlar",
+            "Hazırlık seviyem nasıl belirlenir",
+            "Hazırlık programında hangi sınıftan başlayacağım",
+            "hazırlık programında kaçıncı seviyeden başlayacağım",
+            "ingilizce hazırlık programında kimler hangi levelden başlar",
+            "kaç puan alırsam hazırlıkta en yüksek levelden başlarım",
+            "lisans programına başlamam için hazırlık sınavından kaç puan almam lazım",
+            "ingilizce hazırlıktan lisans nasıl direkt geçerim"
+          
+        ],
+        "answers":
+        [
+            "Sınavda başarılı olmak için gereken puanlar, Yabancı Diller Bölümü tarafından belirlenir. Sınavlara girmeyenler ve sınavlara girip gerekli puanı alamayanlar, lisans programına başlayamaz ve zorunlu İngilizce Hazırlık Programına devam ederler. Öğrencilerin İngilizce Hazırlık Programında öğrenime başlayacakları düzey, sınav sonuçlarına göre Yabancı Diller Bölümü tarafından belirlenir. Sınavlarda başarılı bulunanlar, kabul edildikleri lisans programına başlarlar. "
+        ]
+    },
+    {
+        "tag": "hazirlik_sinavdan_muaf" ,
+        "questions":
+        [
+          "Hangi öğrenciler hazırlık sınavından muaf olurlar",
+          "ingilizce Yeterlik ve Seviye Tespit Sınavı’ndan muaf olma şartları neledir",
+          "ingilizce yeterlilik sınavına girmeden lisans geçebilir miyim",
+          "ingilizce hazırlık sınavına girmeden lisans programına geçebilir miyim",
+          "amerikada okudum hazırlık sınavından muaf olabilir miyim",
+          "ingilizce anadilim acaba seviye tespit sınavından muaf mıyımdır",
+          "orta okulu amerikada okudum hazırlık sınavına girmesem olur mu",
+          "orta okulu ingilterede okudum hazırlık sınavına girmesem olur mu",
+          "orta okulu kanadada okudum hazırlık sınavına girmesem olur mu",
+          "liseyi yurt dışında okudum genede ingilizce hazırlık sınavına girmeme gerek var mı",
+          "5 yıldır amerikadayım ingilizce Yeterlik ve Seviye Tespit Sınavı’ndan muafmıyım",
+          "5 yıldır ingilteredeyim ingilizce Yeterlik ve Seviye Tespit Sınavı’ndan muafmıyım",
+          "5 yıldır kanadadayım ingilizce Yeterlik ve Seviye Tespit Sınavı’ndan muafmıyım",
+          "İngilizce Yeterlik ve Seviye Tespit Sınavından muaf olmak için gerekli şartlar neledir",
+          "daha önce başka bir üniversitenin hazırlık sınavını geçtim o sayılır mı",
+          "başka bir üniversitenin hazırlık sınavı sonucu burada da sayılır mı",
+          "ingilizce hazırlık programı muaf olma şartları neledir",
+          "hazırlık programı muaf olma şartları nelerdir",
+          "İngilizce yeterlilik ve seviye tespit sınavından muaf olma şartları neledir",
+          "yabancı öğrenciler seviye tespit sınavına girmesi gerekir mi",
+          
+        ],
+        "answers":
+        [
+            "En az son üç yılında, İngilizce dilinin anadil olarak konuşulduğu bir ülkede, o ülke vatandaşlarının devam ettiği eğitim dili İngilizce olan eğitim kurumlarında öğrenim görüp,ortaöğretimini bu kurumlarda tamamlayanlar, son iki yıl içinde bu Yönetmeliğin 10 uncu maddesinde düzenlenen İngilizce Yeterlik Sınavından başarılı olanlar ve bu Yönetmeliğin 11 inci maddesine göre İngilizce düzeyi yeterli bulunanlar, İngilizce Yeterlik ve Seviye Tespit Sınavı’ndan muaftırlar. Bu öğrenciler, doğrudan kabul edildikleri lisans programına başlarlar."
+        ]
+    },
+    {
+        "tag": "cap" ,
+        "questions":
+        [
+            "başka bir üniversiteden yatay geçiş yaparsam hazırlık sınavına girmem gerekir mi",
+            "başka bir üniversiteden yatay geçiş yaparsam ingilizce hazırlık sınavına girmem gerekir mi",
+            "başka bir üniversiteden yatay geçiş yaparsam ingilizce yeterlilik sınavına girmem gerekir mi",
+            "başka bir üniversiteden yatay geçiş yaparsam seviye tespit sınavına girmem gerekir mi",
+            "daha önce başka bir üniversitede hazırlığı geçtim şimdi mef üniversitesine yatay geçiş yapmak istiyorum tekrar sınava girmem gerekir mi",
+            "yatay geçiş için hazırlık şartları neledir",
+            "mefe yatay geçiş yapmak istiyorum ingilizce yeterlilik sınavına girmem gerekli mi",
+            "başka bir üniversiteden mef üniversitesine yatay geçiş yapılırsa tekrar ingilizce yeterlilik ve seviye tespit sınavına girilir mi",
+        ],
+        "answers":
+        [
+            "Üniversiteye yatay geçiş başvurusu yapan lisans öğrencilerinin İngilizce yeterlikleri, Yabancı Diller Bölümü görüşü doğrultusunda ilgili Fakülte veya Yüksekokul tarafından karara bağlanır. Fakülte veya Yüksekokul, gerek görürse, öğrencinin İngilizce Yeterlik ve Seviye Tespit Sınavına girmesini isteyebilir."
+        ]
+    },
+    {
+        "tag": "hazirlik_mazeret_sinavi" ,
+        "questions":
+        [
+            "hazırlık sınavının mazereti olur mu",
+            "ingilizce hazırlık sınavına giremedim mazeret sınavına girebilir miyim",
+            "ingilizce Yeterlik ve Seviye Tespit Sınavı için mazeret sınavı düzenleniyor mu ",
+            "hazırlık seviye tespit sınavını kaçırdım acaba mazeret sınavı oluyor mu",
+            "bazı nedenlerden dolayı hazırlık ingilizce sınavına giremedim tekrar sınav yapılıcak mı",
+            "ingilizce yeterlilik ve seviye tespit sınavı için mazeret sınavı tarihi ne zaman"
+        ],
+        "answers":
+        [
+            "İngilizce Yeterlik ve Seviye Tespit Sınavı için mazeret sınavı düzenlenip düzenlenmeyeceğine Yabancı Diller Bölümü karar verir."
+        ]
+    },
+    {
+        "tag": "hazirlik_mazeret_sinavi" ,
+        "questions":
+        [
+            "hazırlık sınavının mazereti olur mu",
+            "ingilizce hazırlık sınavına giremedim mazeret sınavına girebilir miyim",
+            "ingilizce Yeterlik ve Seviye Tespit Sınavı için mazeret sınavı düzenleniyor mu ",
+            "hazırlık seviye tespit sınavını kaçırdım acaba mazeret sınavı oluyor mu",
+            "bazı nedenlerden dolayı hazırlık ingilizce sınavına giremedim tekrar sınav yapılıcak mı",
+            "ingilizce yeterlilik ve seviye tespit sınavı için mazeret sınavı tarihi ne zaman"
+        ],
+        "answers":
+        [
+            "İngilizce Yeterlik ve Seviye Tespit Sınavı için mazeret sınavı düzenlenip düzenlenmeyeceğine Yabancı Diller Bölümü karar verir."
+        ]
+    },
+    {
+        "tag": "hazirlik_ingilizce_yeterlilik_sinavi" ,
+        "questions":
+        [
+            "kimler ingilizce yeterlilik sınavına girmek zorundadır",
+            "orda üstü düzeyi başarı ile tamamlamak için ne yapmam gerek",
+            "hazırlıktan mezun olabilmek için güz ve bahar dönemleri sonunda sınava girmem gerekli mi"
+            
+        ],
+        "answers":
+        [
+            "Yabancı Diller Bölümü tarafından güz ve bahar dönemleri sonunda İngilizce Yeterlik Sınavı düzenlenir. Orta üstü düzeyi başarı ile tamamlamak için öğrencilerin düzenlenen İngilizce Yeterlik Sınavı’na girmeleri zorunludur. "
+        ]
+    },
+    {
+        "tag": "hazirlik_yeterlilik_sinavi" ,
+        "questions":
+        [
+            "hazırlık sınavının mazereti olur mu",
+            "ingilizce hazırlık sınavına giremedim mazeret sınavına girebilir miyim",
+            "ingilizce Yeterlik ve Seviye Tespit Sınavı için mazeret sınavı düzenleniyor mu ",
+            "hazırlık seviye tespit sınavını kaçırdım acaba mazeret sınavı oluyor mu",
+            "bazı nedenlerden dolayı hazırlık ingilizce sınavına giremedim tekrar sınav yapılıcak mı",
+            "ingilizce yeterlilik ve seviye tespit sınavı için mazeret sınavı tarihi ne zaman"
+        ],
+        "answers":
+        [
+            "İngilizce Yeterlik ve Seviye Tespit Sınavı için mazeret sınavı düzenlenip düzenlenmeyeceğine Yabancı Diller Bölümü karar verir."
+        ]
+    },
+    {
+        "tag": "hazirlik_sinav_tarihleri" ,
+        "questions":
+        [
+            "İngilizce hazırlık sınavlarının tarihleri ne zamandır",
+            "İngilizce yeterlilik sınav tarihleri",
+            "Hazırlık sınıfı ara sınav tarihleri ne zamandır",
+            "ingilizce yeterlilik sınavına ne zaman girebilirim"
+        ],
+        "answers":
+        [
+            "Yabancı Diller Bölümü tarafından güz ve bahar dönemleri sonunda İngilizce Yeterlik Sınavı düzenlenir. Orta üstü düzeyi başarı ile tamamlamak için öğrencilerin düzenlenen İngilizce Yeterlik Sınavı’na girmeleri zorunludur."
+        ]
+    },
+    {
+        "tag": "hazirlik_sinavi_gecerlilik_suresi" ,
+        "questions":
+        [
+            "hazırlık sınavının geçerlilik süresi ne kadardır",
+            "hazırlıktan mezun olduktan sonra kaç yıl daha geçerli olur",
+            "ingilizce yeterlilik sınavının geçerlilik süresi kaç yıldır",
+            "ingilizce hazırlık programının geçerlilik süresi nedir"
+        ],
+        "answers":
+        [
+            "İngilizce Yeterlik Sınavı’nın geçerlilik süresi sınavın yapıldığı tarihten itibaren iki yıldır. "
+        ]
+    },
+    {
+        "tag": "hazirlik_disaridan_sinav_yeterlilik" ,
+        "questions":
+        [
+           "Dışarıdan aldığım dil belgesi burada geçerli mi",
+           "TOEFL, IELTS gibi belgeler mef üniversitesinde geçerli mi",
+           "yabancı dil belgem var hazırlık sınıfını direkt geçebilir miyim",
+           "toefl dan 90 aldım direkt lisans programına başlayabilir miyim",
+           "ielts den 80 aldım hazırlığı atlayabilir miyim"
+        ],
+        "answers":
+        [
+            "Senato tarafından eşdeğerliği kabul edilen ulusal veya uluslararası İngilizce yeterlik sınavlarının birinden, Yabancı Diller Bölümü tarafından belirlenen düzeyde başarılı olduğunu belgeleyen öğrenciler, doğrudan kabul edildikleri lisans programlarına başlarlar. İlgili sınavlarda bu düzeyde başarı elde edemeyen öğrencilerin aldıklarını belgeledikleri puanlar, İngilizce Hazırlık Programında öğrenime başlayacakları düzeyin belirlenmesi için kullanılır. "
+        ]
+    },
+    {
+        "tag": "hazirlik_kayit_yenileme" ,
+        "questions":
+        [
+            "hazırlıktayım kaydımı nasıl yenileyebilirim",
+            "ingilizce hazırlık kayıt yenileme",
+            "hazırlık öğrencileri kayıtlarını ne zaman yenilemelidirler",
+            "ingilizce hazırlık programı kayıt yenileme süresi ne kadardır"
+        ],
+        "answers":
+        [
+            "Öğrenciler, her yıl güz ve bahar dönemi başında, akademik takvimde ilan edilen süreler içinde, ödemekle yükümlü oldukları dönem öğrenim ücretini ödeyerek ve Üniversiteye karşı varsa diğer yükümlülüklerini tamamlayarak kayıtlarını yenilemek zorundadır."
+        ]
+    },
+    {
+        "tag": "hazirlik_kayit_yenileyememe" ,
+        "questions":
+        [
+            "İngilizce hazırlık öğrencisiyim kaydımı yenileyemedim ne yapmam gerek",
+            "hazırlık sınıfındayım çeşitli nedenler dolayısı ile okul paramı yatıramadım ne olcak",
+            "hazırlık programıdna kayıt yenilenmezse derslere gelemez miyim",
+            "kayit yenileme süresini kaçırdım kaydımı genede yenileyebilir miyim"
+        ],
+        "answers":
+        [
+            "Süresi içinde kayıtlarını yenilemeyen öğrenciler, ilgili dönem derslerinin başlamasını izleyen ikinci haftanın son iş gününe kadar, mazeretlerinin Yabancı Diller Bölümü tarafından uygun görülmesi koşuluyla, gecikmeli olarak kayıtlarını yenileyebilirler. Gecikmeli olarak kayıt yenileyecek öğrencilerin, Üniversite tarafından belirlenebilecek ek yükümlülükleri yerine getirmeleri gerekir."
+        ]
+    },
+    {
+        "tag": "hazirlik_kayit_yenilemezsem_ne_olur" ,
+        "questions":
+        [
+           "bu dönem kaydımı yenileyemedim ne olucak",
+           "eğer ders kaydımı yenileyemez isem derslere giremez miyim",
+           "hazırlıkta okuyorum bu dönem ders kaydımı yeniletemedim genede derslere katılabilir miyim",
+           "okul kaydımı yenilemesemde derslere katılabilir miyim"
+        ],
+        "answers":
+        [
+            "Kayıtlarını yenilemeyen öğrenciler, kayıtsız öğrenci statüsüne geçerler. Kayıtsız öğrenciler, kayıtsız kaldıkları süreler içinde derslere ve sınavlara katılamaz, derslerden not alamaz ve diğer öğrencilik haklarından yararlanamaz. Kayıtsız öğrenci statüsünde geçirilen süreler öğrenim süresine dâhil edilir."
+        ]
+    },
+    {
+        "tag": "hazirlik_kayitsiz_ogrenci_lisans_baslama" ,
+        "questions":
+        [
+            "üniversite kaydımı yenilemesemde ingilizce yeterlilik sınavına girebilir miyim",
+            "hazırlık sınıfı kayıtsız öğrencielr sınavda başarılı olup lisansa geçebilir mi",
+            "ingilizce hazırlık programı öğrencisiyim ancak kaydımı yaptıramadım genede yeterlilik sınavına girip lisans geçebilir miyim",
+            "ingilizce hazırlık programı yeterlilik sınavına kayıtsız öğrenciler girebilir mi, lisans geçebilir mi"
+        ],
+        "answers":
+        [
+            "Kayıtsız öğrenciler, herhangi bir dönem, dersler başlamadan önce, İngilizce Yeterlik Sınavında başarılı olarak veya bu Yönetmeliğin 11 inci maddesinde belirtilen sınavlarda belirlenen düzeyde başarılı olduklarını belgeleyerek Öğrenci İşleri Direktörlüğüne başvurdukları takdirde, kabul edildikleri lisans programında öğrenimlerine başlarlar."
+        ]
+    },
+    {
+        "tag": "hazirlik_kayit_dondurma" ,
+        "questions":
+        [
+            "hazırlık programı kayıt dondurmak için sağlanması gereken şartlar nelerdir",
+            "üniversite kaydımı dondurmam için gerekli şartlar neledir",
+            "kimler kayıt dondurabilir",
+            "bu sene üniversite kaydımı dondurmak istiyorum nasıl yapabilirim."
+        ],
+        "answers":
+        [
+            "Öğrenciler, tekrar Üniversiteye dönmek üzere, sağlıkla ilgili, askerlikle ilgili, maddi, ailevi, kişisel ve yurt dışında eğitim ile ilgili beklenmedik zorunlu olaylar veya benzeri nedenlerle kayıt dondurmak için başvurabilirler."
+        ]
+    },
+    {
+        "tag": "hazirlik_kaydımı_nasil_dondurabilirim" ,
+        "questions":
+        [
+            "üniversite kaydımı nasıl dondurabilirim",
+            "kaydımı dondurmam için ne yapmam gerek",
+            "üniversiteye ara vermek istiyorum okul kaydımı nasıl dondurabilirim",
+            "hastalığımdan dolayı okula ara vermek istiyorum nasıl yapabilirim",
+            "askere gideceğim için okula ara vermek istiyorum kaydımı nasıl dondurabilirim"
+        ],
+        "answers":
+        [
+            "Kayıt dondurmak isteyen öğrenciler, gerekçeli bir dilekçe ve varsa gerekçelerini destekleyen belgeler ile birlikte Yabancı Diller Bölümüne başvururlar. Başvurular, en geç ilgili dönemin derslerinin başlamasını izleyen dördüncü haftanın son iş gününe kadar yapılabilir. Zorunlu haller dışında, bu süre sona erdikten sonra yapılan başvurular işleme alınmaz. Başvurusu olumlu sonuçlanan öğrencinin kayıt dondurma işleminin tamamlanabilmesi için, kayıt dondurduğu dönemlere ait ödemekle yükümlü olduğu öğrenim ücretinin yarısını ödemesi ve Üniversiteye karşı herhangi bir borcunun olmaması gerekir. Derslerin başlamasını izleyen dördüncü haftanın son iş gününden sonra kayıt dondurma başvurusu yapan öğrenciler, ilgili döneme ait ödemekle yükümlü olduğu öğrenim ücretinin tamamını öderler. Öğrencilerin izinli geçirdikleri süreler için ödemiş oldukları ücretler, iade edilmez veya sonraki ücretlerine mahsup edilmez. Kayıt dondurma işlemi tamamlanan öğrencilerin ilgili dönemde almış oldukları dersler, kayıtlarından düşürülür."
+        ]
+    },
+    {
+        "tag": "hazirlik_kayıt_dondurma_suresi" ,
+        "questions":
+        [
+            "okul kaydı dondurma süresi ne kadardır",
+            "üniversiyeyi kaç yıl dondurabilirim",
+            "okulu kaç yıl dondurabilirim",
+            "üniversite kaydımı ne kadar süre ile dondurabilirim"
+        ],
+        "answers":
+        [
+            "Kayıt dondurma başvuruları, Yabancı Diller Bölümü tarafından incelenir ve karara bağlanır. Öğrencilere bir kereye mahsus olarak ve ilk yılda olmak üzere bir akademik yıl için izin verilebilir; bir yarıyıl için izin verilmez. Kayıt dondurulan süreler, öğrenim süresine sayılmaz."
+        ]
+    },
+    {
+        "tag": "hazirlik_kayit_dondurdum_sınav_tespit" ,
+        "questions":
+        [
+            "ingilizce hazırlık öğrencisiyim kaydımı dondurmuştum tekrar seviye yeterlilik sınavına girmem gerekli mi",
+            "kaydını donduran hazırlık öğrencileri ingilizce yeterlilik sınavına girerler mi",
+            "okul kaydımı dondurmuştum hazırlık seviye tespit sınavına nasıl girebilirim",
+            "kayıt donduran hazırlık öğrencileri sınavlara ne zaman girer"
+        ],
+        "answers":
+        [
+            "Kayıt donduran öğrenciler, izleyen akademik yılın başında Üniversiteye kayıtlarını yenileyerek söz konusu akademik yılın başında İngilizce Yeterlik ve Seviye Tespit Sınavına yeni öğrencilerle birlikte alınır."
+        ]
+    },
+    {
+        "tag": "hazirlik_universiteden_ayrilma" ,
+        "questions":
+        [
+            "Üniversiteden nasıl ayrılabilirim",
+            "okuldan ayrılmak için ne yapmam gerek",
+            "üniversiteden kaydımı nasıl sildirebilirim",
+            "üniversite kayıt sildirme",
+            "bir öğrenci okul ile ilişkiğini nasıl siler"
+        ],
+        "answers":
+        [
+            "Öğrenciler, Öğrenci İşleri Direktörlüğüne bir dilekçe ile başvurarak Üniversitedeki kayıtlarını sildirebilirler. Bu öğrencilerin, ayrılmak için başvurdukları tarih itibarıyla Üniversite ile ilişikleri kesilir."
+        ]
+    },
+    {
+        "tag": "hazirlik_kayıt_sildirme_para_iadesi" ,
+        "questions":
+        [
+           "Bu yılki öğrenim ücretimi yatırarak kaydımı yaptırdım ancak şimdi üniversiteden ayrılıyorum param iade edilir mi",
+           "Üniversite ücretimi yatırdım ancak şimdi iade mi istiyorum nasıl alabilirim",
+           "üniversite kaydı yenilendikten sonra para iadesi yapılır mı",
+           "okula kayıt olunduktan sonra ücret iadesi yapılır mı"
+        ],
+        "answers":
+        [
+            "Dönem öğrenim ücretini ödeyerek kayıt yaptıran veya kayıt yenileyen öğrenciye, Üniversiteden ayrılma ve kayıt iptali durumunda, öğrenci derslerin başlamasını takip eden 3 hafta içerisinde başvurduğu takdirde ödenen ücretin %50’si iade edilir. Bu süre geçtikten sonra ücret iadesi yapılmaz."
+        ]
+    },
+    {
+        "tag": "hazirlik_yaz_okulu_ucret_iadesi" ,
+        "questions":
+        [
+            "yaz okulu için kayıt yaptırmıştım ancak üniversiteden ayrılıyorum. Para iadesi alabilir miyim",
+            "üniversiteden ayrılırken yaz okulu ücretinin iadesi yapılır mı",
+            "yaz okulundan çekilmek istiyorum paramı nasıl geri alabilirim",
+            "yaz okulu derslerinden çekilirsem ücreti iade alabilir miyim"
+        ],
+        "answers":
+        [
+            "Yaz okulu öğrenim ücretini ödeyerek derslere kayıt yaptıran öğrenciye, Üniversiteden ayrılma veya yaz okulundan çekilme durumunda ücret iadesi yapılmaz."
+        ]
+    },
+    {
+        "tag": "hazirlik_devamsızlık_bilgisi" ,
+        "questions":
+        [
+            "ingilizce hazırlıkta devamsızlık sayısı kaç gündür",
+            "hazırlık programı için belirlenmiş devamsızlık hakkı kaç gündür",
+            "İngilizce hazırlık programı için devamsızlık süresi nedir",
+            "hazırlıkta level 2 20 gün devamsızlığım var bu kuru tamamlayabilir miyim",
+            "leveller arası devamsızlık süresi değişiyor mu",
+            "level 3 deyim 10 gün devamsızlığım var. Acaba daha kaç gün devamsızlık yapabilirim"
+        ],
+        "answers":
+        [
+            "Öğrenciler, bulundukları düzeyin toplam ders ve uygulama saatinin en az % 90’ına katılmakla yükümlüdür. Öğrencilerin ders yükümlülükleri kapsamında takip etmeleri gereken çevrimiçi uygulamalar hakkında da bu oran uygulanır. Öğrencilerin bir düzey süresince derslere mazeretsiz devamsızlığı, % 10’u aşamaz. Üniversite tarafından belirlenen esaslara uygun olarak sağlık sorunları nedeniyle alınan sağlık raporları ve disiplin cezası nedeniyle uzaklaştırılma dâhil hangi gerekçe ile olursa olsun bir düzeydeki toplam devamsızlık % 20’yi aşamaz."
+        ]
+    },
+    {
+        "tag": "hazirlik_devamsizliktan_kalirsam_ne_olur" ,
+        "questions":
+        [
+            "Hazırlıkta devamsızlıktan kalırsam ne olur",
+            "ingilizce hazırlık level3 te devamsızlıtkan dolayı kaldım genede sınava girebilir miyim",
+            "ingilizce hazırlık programında düzey sonunda yapılan sınavlarda devamsızlığın önemi var mı",
+            "devamsızlıktan kalan bir öğrenci level sonu ingilizce sınavına girme şansı var mı",
+            "level 4 te devamsızlık günümün fazla olmasından dolayı kaldım. Genede sınava girip lisans programına başlayabilir miyim"
+        ],
+        "answers":
+        [
+            "Devam yükümlülüğünü yerine getirmeyen öğrenciler, düzey sonunda yapılan sınavlara alınmaz ve bulundukları düzeyden başarısız sayılırlar."
+        ]
+    },
+    {
+        "tag": "hazirlik_sinav_tarihleri" ,
+        "questions":
+        [
+            "ara sınav tarihleri ne zamandır",
+            "ingilizce hazırlık ara sınav tarihleri nelerdir",
+            "hazırlıkta düzey sonu sınavları ne zaman yapılır",
+            "ingilizce hazırlık programı düzey sonu sınav tarihleri",
+            "hazırlık öğrenci düzey değerlendirme sınavı tarihlerini nereden öğrenebilir"
+        ],
+        "answers":
+        [
+            "Ara sınavların yapılacağı tarihler, Yabancı Diller Bölümü tarafından belirlenir. Her bir düzeyin sonunda yapılan Düzey Değerlendirme Sınavları, akademik takvimde belirtilen tarihlerde yapılır."
+        ]
+    },
+    {
+        "tag": "hazirlik_sinavina_girememe_durumu" ,
+        "questions":
+        [
+            "İngilizce hazırlık programı ara sınavına giremedim ne yapmam gerek",
+            "Hazırlıkta düzey sonu sınavına giremeyen öğrenciler ne yapmalı",
+            "hastalığımdan dolayı ingilizce hazırlık sınavına giremedim acaba rapor geçerli mi",
+            "hazırlık sınavları için bir mazeret sunulursa tekrar sınavı yapılır mı",
+            "ingilizce hazırlık programı ara sınav veya düzey belirleme sınavında rapor geçerli mi"
+        ],
+        "answers":
+        [
+            "Öğrenciler, sınavlara girmekle yükümlüdürler. Öğrenciler, girmedikleri sınavlardan başarısız sayılırlar. Ancak, hastalık ve benzeri beklenmedik hallerde ara sınavlara veya düzey sonu sınavlarına giremeyen öğrencilerin durumu, Yabancı Diller Bölümü tarafından değerlendirilir. Mazeretleri geçerli görülenler için Yabancı Diller Bölümü tarafından uygun görülen bir tarihte ve kapsamda mazeret sınavı düzenlenir."
+        ]
+    },
+    {
+        "tag": "hazirlik_sinava_itiraz" ,
+        "questions":
+        [
+            "ingilizce düzey tespit sınavı sonucumun hatalı hesaplandığını düşünüyorum nasıl itiraz edebilirim",
+            "hazırlık programı ara sınav sonucuma nasıl itiraz edebilirim",
+            "speak bölümünde hoca bilerek düşük puan verdi notuma nasıl itiraz edebilirim",
+            "writing bölümünde sürem yetmediğinden dolayı yetiştiremedim bu duruma itiraz edebilir miyim",
+            "ingilizce hazırlık programı ara sınav sonucum beklediğimden düşük ne itiraz etmek istiyorum",
+            "hazırlıktayım ara sınavda sonucum düşük geldi ama ben daha yüksek bekliyordum nasıl itiraz ederim"
+        ],
+        "answers":
+        [
+            "Öğrenciler, sınav sonuçlarının ilanından itibaren, en geç üç iş günü içinde, yazılı olarak Yabancı Diller Bölümü başvurarak sınav kâğıtlarının tekrar incelenmesini isteyebilirler. Yabancı Diller Bölümü incelemesini yaparak sonuç ile ilgili kararını yedi iş günü içinde verir."
+        ]
+    },
+    {
+        "tag": "hazirlik_notların_anlamı" ,
+        "questions":
+        [
+            "hazırlıktan mezun oldum transkriptimde U yazıyor bu ne anlama gelmektedir.",
+            "ingilizce hazırlık programını bitirdim sonucumda S harfi var bu ne anlama geliyor.",
+            "Transkripte hazırlık bölümünde yazan S ve U harflerinin açıklaması nedir",
+            "Hazırlık sınavı sonucunda S aldım bu ne anlama geliyor",
+            "hazırlık programında U ile mezun oldum bu kaldım mı demek oluyor"
+        ],
+        "answers":
+        [
+            "Öğrencilerin düzey sonundaki başarı durumları, başarılı (S) veya başarısız (U) notlarından biri ile gösterilir."
+        ]
+    },
+    {
+        "tag": "hazirlik_basari_degerlendirmesi" ,
+        "questions":
+        [
+            "ingilizce hazırlıkta bir düzeyde başarısız olursam ne olur",
+            "level 2 de kalırsam level 1 e düşer miyim",
+            "level 1 de yüksek puan alırsam level 3 e çıkabilir miyim",
+            "level sınavlarında başarısız olursam hazırlıkta kalır mıyım",
+            "ingilizce hazırlık ara sınavlarda başarısız olan bir öğrenci o leveli tekrar mı almak zorundadır",
+            "hazırlık sınavında başarısız oldum diğer bir levele geçmem için ne yapmam gerek"
+        ],
+        "answers":
+        [
+            "Bir düzeyden başarısız olan öğrenci, bu düzeyi tekrar eder. Başlangıç, orta öncesi ve orta düzeyi başarıyla tamamlayan öğrenciler, bir sonraki düzeye geçerek öğrenimlerine devam ederler. Orta üstü düzeyi başarıyla tamamlayan öğrenciler, İngilizce Hazırlık Programını tamamlar ve kabul edildikleri lisans programına başlamaya hak kazanırlar. Orta üstü düzeyi başarı ile tamamlamak için öğrencilerin Yabancı Diller Bölümü tarafından güz ve bahar dönemleri sonunda düzenlenen İngilizce Yeterlik Sınavı’na girmeleri zorunludur."
+        ]
+    },
+    {
+        "tag": "hazirlik_ogrenim_ucreti" ,
+        "questions":
+        [
+            "mef üniversitesi paralı bir okul mu",
+            "bu okulda okumak için ücret vermem gerekli mi",
+            "ingilizce hazırlık programı için öğrenim ücreti fiyatı ne kadardır",
+            "bu dönem akademik ücret fiyatı nedir",
+            "okul paramı yatırmadım genede derslere katılabilir miyim",
+            "üniversite öğrenim ücretimi dondurmadan okulumu dondurabilir miyim"
+        ],
+        "answers":
+        [
+            "Üniversitede öğrenim ücrete tabidir. Ücretler, her yıl Mütevelli Heyet tarafından belirlenir. Öğrenciler, her güz ve bahar dönemleri başında, akademik takvimde belirtilen süreler içinde öğrenim ücretini ödemekle yükümlüdür. Öğrenim ücretlerini belirlenen süreler içinde ödemeyen öğrencilerin kayıtları yapılmaz, yenilenmez veya dondurulmaz. Bu öğrenciler, öğrencilik haklarından yararlanamaz."
+        ]
+    }
+]
+
+
+
+

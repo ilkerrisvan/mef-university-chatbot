@@ -1,0 +1,260 @@
+[
+    {
+        "tag" : "comp492",
+        "questions" :
+            [
+                "COMP 492 almak için hangi dersleri vermiş olmam gerekiyor?",
+                "COMP 492 almak için ön şartlar nedir?",
+                "Senior Design Project II ön koşulları nelerdir?",
+                "Senior Design Project 2 ön koşulları nelerdir?",
+                "COMP 491 almadan COMP 492 alabilir miyim?",
+                "COMP 491 dersini almadan COMP 492 alınır mı?"
+            ],
+        "answers" :
+            [
+                "COMP 492 kodlu Senior Design II dersinin alınabilmesi için COMP 491 kodlu Senior Design Project I dersinin başarı ile tamamlanmış olması gerekmektedir."
+
+            ]
+    },
+    {
+        "tag" : "comp491",
+        "questions" :
+            [
+                "4. Sınıf olmadan COMP 491 alabilir miyim?",
+                "COMP 491 almanın ön şartları nedir?",
+                "Bitirme dersini almak için ne gerekli?",
+                "Kaç kredi ile bitirme alınabilir?",
+                "Senior Design Project I ön koşulları nelerdir?",
+                "Bitirmeyi nasıl alabilirim."
+            ],
+        "answers" :
+            [
+                "COMP 491 kodlu Senior Design I dersinin alınabilmesi için öğrencinin kredi bazında dördüncü sınıf öğrencisi olması gerekmektedir."
+            ]
+    },
+    {
+        "tag" : "comp421",
+        "questions" :
+            [
+                "COMP 421 almak için hangi dersleri vermiş olmam gerekiyor?",
+                "COMP 421 almak için ön şartlar nedir?",
+                "Computer networks dersi ön koşulları nelerdir?",
+                "COMP 421 ön şartları nedir?",
+                "COMP 421 dersi nasıl alırım?",
+                "Computer networks dersi hangi derslere bağlıdır?"
+            ],
+        "answers" :
+            [
+                "COMP 421 kodlu Computer Networks dersinin alınabilmesi için COMP 110 kodlu Object-Oriented Programming (JAVA) dersinin başarı ile tamamlanmış olması gerekmektedir."
+
+            ]
+    },
+    {
+        "tag" : "ee306",
+        "questions" :
+            [
+                "EE 306 dersini almak için hangi dersleri vermiş olmak gerekiyor?",
+                "EE 306 almak için ön şartlar nedir?",
+                "Microprocessors ön koşulları nelerdir?",
+                "EE 306 ön şartları nedir?",
+                "Microprocessors dersi hangi derslere bağlıdır?",
+                "Microprocessors dersini almam için hangi dersleri vermem gerekiyor?"
+            ],
+        "answers" :
+            [
+                "EE 306 kodlu Microprocessors dersinin alınabilmesi için EE 203 kodlu Digital Systems Design dersinin başarı ile tamamlanmış olması gerekmektedir."
+
+            ]
+    },
+    {
+        "tag" : "comp302",
+        "questions" :
+            [
+                "COMP 302 dersini almak için hangi dersleri vermiş olmak gerekiyor?",
+                "COMP 302 almak için ön şartlar nedir?",
+                "Software Engineering dersi ön koşulları nelerdir?",
+                "COMP 302 ön şartları nedir?",
+                "Software Engineering dersi hangi derslere bağlıdır?",
+                "Microprocessors dersini almam için hangi dersleri vermem gerekiyor?"
+            ],
+        "answers" :
+            [
+                "COMP 302 kodlu Software Engineering dersinin alınabilmesi için COMP 201 kodlu Data Structures and Algorithms dersinin başarı ile tamamlanmış olması gerekmektedir. "
+
+            ]
+    },
+    {
+        "tag" : "comp305",
+        "questions" :
+            [
+                "COMP 305 dersini almak için hangi dersleri tamamlamış olmam gerekiyor?",
+                "COMP 305 almak için ön şartlar nedir?",
+                "Database Management Systems dersinin ön koşulları nelerdir?",
+                "COMP 305 ön şartları ne?",
+                "Database Management Systems dersi hangi derslerle bağlı?",
+                "Database Management Systems dersini alabilmek için hangi dersleri vermem gerekiyor?"
+            ],
+        "answers" :
+            [
+                "COMP 305 kodlu Database Management Systems dersinin alınabilmesi için COMP 110 kodlu Object-Oriented Programming (JAVA) dersinin başarı ile tamamlanmış olması gerekmektedir. "
+
+            ]
+    },
+    {
+        "tag" : "comp303",
+        "questions" :
+            [
+                "COMP 303 dersini almak için hangi dersleri tamamlamış olmam gerekiyor?",
+                "COMP 303 almak için ön şartlar nedir?",
+                "Algorithm Analysis dersinin ön koşulları nelerdir?",
+                "COMP 303 ön şartları ne?",
+                "Algorithm Analysis dersi hangi derslerle bağlı?",
+                "Algorithm Analysis dersini alabilmek için hangi dersleri vermem gerekiyor?"
+            ],
+        "answers" :
+            [
+                "COMP 303 kodlu Algorithm Analysis dersinin alınabilmesi için COMP 201 kodlu Data Structures and Algorithms dersinin başarı ile tamamlanmış olması gerekmektedir. "
+
+            ]
+    },
+    {
+        "tag" : "comp206",
+        "questions" :
+            [
+                "COMP 206 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "COMP 206 almak için ön şart var mı?",
+                "Computer Architecture dersinin ön koşulları nelerdir?",
+                "COMP 206 ön şartları nedir?",
+                "Computer Architecture dersi hangi derslerle bağlı?",
+                "Computer Architecture dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "COMP 206 kodlu Computer Architecture dersinin alınabilmesi için EE 203 kodlu Digital Systems Design dersinin başarı ile tamamlanmış olması gerekmektedir. "
+
+            ]
+    },
+    {
+        "tag" : "comp204",
+        "questions" :
+            [
+                "COMP 204 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "COMP 204 almak için ön şart var mı?",
+                "Programming Studio dersinin ön koşulları nelerdir?",
+                "COMP 204 ön şartları nedir?",
+                "Programming Studio dersi hangi derslerle bağlı?",
+                "Programming Studio dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "COMP 204 kodlu Programming Studio dersinin alınabilmesi için COMP 110 kodlu Object-Oriented Programming (JAVA) dersinin başarı ile tamamlanmış olması gerekmektedir. "
+
+            ]
+    },
+    {
+        "tag" : "comp205",
+        "questions" :
+            [
+                "COMP 205 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "COMP 205 almak için ön şart var mı?",
+                "Systems Programming dersinin ön koşulları nelerdir?",
+                "COMP 205 ön şartları nedir?",
+                "Systems Programming dersi hangi derslerle bağlı?",
+                "Systems Programming dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "COMP 205 kodlu Systems Programming dersinin alınabilmesi için COMP 109 kodlu Computer Programming (Java) dersinin başarı ile tamamlanmış olması gerekmektedir. "
+
+            ]
+    },
+    {
+        "tag" : "comp201",
+        "questions" :
+            [
+                "COMP 201 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "COMP 201 almak için ön şart var mı?",
+                "Data Structures and Algorithms dersinin ön koşulları nelerdir?",
+                "COMP 201 ön şartları nedir?",
+                "Data Structures and Algorithms dersi hangi derslerle bağlı?",
+                "Data Structures and Algorithms dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "COMP 201 kodlu Data Structures and Algorithms dersinin alınabilmesi için COMP 109 kodlu Computer Programming (Java) dersinin başarı ile tamamlanmış olması gerekmektedir. "
+
+            ]
+    },
+    {
+        "tag" : "engr301",
+        "questions" :
+            [
+                "ENGR 301 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ENGR 301 almak için ön şart var mı?",
+                "Technical Report Writing and Presentation dersinin ön koşulları nelerdir?",
+                "ENGR 301 ön şartları nedir?",
+                "Technical Report Writing and Presentation dersi hangi derslerle bağlı?",
+                "Technical Report Writing and Presentation dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ENGR 301 kodlu Technical Report Writing and Presentation dersinin alınabilmesi için ENG 102 kodlu English for Academic Purposes II dersinin başarı ile tamamlanmış olması gerekmektedir. "
+
+            ]
+    },
+    {
+        "tag" : "eng102",
+        "questions" :
+            [
+                "ENG 102 dersini almak için hangi dersleri tamamlamış olmam gerekiyor?",
+                "ENG 102 almak için ön şartlar nedir?",
+                "English for Academic Purposes II dersinin ön koşulları nelerdir?",
+                "ENG 102 ön şartları ne?",
+                "English for Academic Purposes 2 dersi hangi derslerle bağlı?",
+                "English for Academic Purposes II dersini alabilmek için hangi dersleri vermem gerekiyor?"
+            ],
+        "answers" :
+            [
+                "ENG 102 kodlu English for Academic Purposes II dersinin alınabilmesi için ENG 101 kodlu English for Academic Purposes I dersinin başarı ile tamamlanmış olması gerekmektedir. "
+
+            ]
+    },
+    {
+        "tag" : "math116",
+        "questions" :
+            [
+                "MATH 116 dersini almak için hangi dersleri tamamlamış olmam gerekiyor?",
+                "MATH 116 almak için ön şartlar nedir?",
+                "Calculus II dersinin ön koşulları nelerdir?",
+                "MATH 116 ön şartları ne?",
+                "Calculus 2 dersi hangi derslerle bağlı?",
+                "Calculus iki dersini alabilmek için hangi dersleri vermem gerekiyor?"
+            ],
+        "answers" :
+            [
+                "MATH 116 kodlu Calculus II dersinin alınabilmesi için MATH 115 kodlu Calculus I dersinin başarı ile tamamlanmış olması gerekmektedir. "
+
+            ]
+    },
+    {
+        "tag" : "comp110",
+        "questions" :
+            [
+                "COMP 110 dersini almak için hangi dersleri tamamlamış olmam gerekiyor?",
+                "COMP 110  almak için ön şartlar nedir?",
+                "Object-Oriented Programming (JAVA) dersinin ön koşulları nelerdir?",
+                "COMP 110  ön şartları ne?",
+                "Object-Oriented Programming (JAVA) dersi hangi derslerle bağlı?",
+                "OOP dersini alabilmek için hangi dersleri vermem gerekiyor?"
+            ],
+        "answers" :
+            [
+                "COMP 110 kodlu Object-Oriented Programming (JAVA) dersinin alınabilmesi için COMP 109 kodlu ,Computer Programming (Java) dersinin başarı ile tamamlanmış olması gerekmektedir. "
+
+            ]
+    }
+]
+
+
+
+

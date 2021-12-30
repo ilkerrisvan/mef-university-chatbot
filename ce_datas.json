@@ -1,0 +1,228 @@
+[
+    {  "tag" : "ce492",
+        "questions" :
+            [
+                "CE 492 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "CE 492 almak için ön şart var mı?",
+                "Senior Design Project dersinin ön koşulları nelerdir?",
+                "CE 492 ön şartları nedir?",
+                "CE Senior Design Project dersi hangi derslerle bağlı?",
+                "CE Senior Design Project  dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "CE 492 kodlu Senior Design Project dersinin alınabilmesi için CE 490 kodlu Senior Deisgn Project Research dersi başarı ile tamamlanmış olmalıdır."
+            ]
+    },
+    {
+        "tag" : "ce490",
+        "questions" :
+            [
+                "CE 490 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "CE 490 almak için ön şart var mı?",
+                "Senior Design Project Research dersinin ön koşulları nelerdir?",
+                "CE 490 ön şartları nedir?",
+                "Senior Design Project Research dersi hangi derslerle bağlı?",
+                "Senior Design Project Research dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "CE 490 kodlu Senior Design Project Research dersinin alınabilmesi için son sınıf öğrencisi olmak gerekmektedir."
+            ]
+    },
+    {  "tag" : "ce409",
+        "questions" :
+            [
+                "CE 409 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "CE 409 almak için ön şart var mı?",
+                "Design of Steel Structures dersinin ön koşulları nelerdir?",
+                "CE 409 ön şartları nedir?",
+                "Design of Steel Structures dersi hangi derslerle bağlı?",
+                "Design of Steel Structures dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "CE 409 kodlu Design of Steel Structures dersinin alınabilmesi için STM 203 kodlu Strength of Materials dersi başarı ile tamamlanmış olmalıdır."
+            ]
+    },
+    {  "tag" : "ce305",
+        "questions" :
+            [
+                "CE 305 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "CE 305 almak için ön şart var mı?",
+                "Reinforced Concrete Structures I dersinin ön koşulları nelerdir?",
+                "CE 305 ön şartları nedir?",
+                "Reinforced Concrete Structures I dersi hangi derslerle bağlı?",
+                "Reinforced Concrete Structures 1 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "CE 305 kodlu Reinforced Concrete Structures I dersinin alınabilmesi için STM 203 kodlu Strength of Materials dersi başarı ile tamamlanmış olmalıdır."
+            ]
+    },
+    {  "tag" : "cme302",
+        "questions" :
+            [
+                "CME 302 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "CME 302 almak için ön şart var mı?",
+                "Computational Methods in Engineering dersinin ön koşulları nelerdir?",
+                "CME 302 ön şartları nedir?",
+                "Computational Methods in Engineering dersi hangi derslerle bağlı?",
+                "Computational Methods in Engineering dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "CME 302 kodlu Computational Methods in Engineering dersinin alınabilmesi için MATH 115 kodlu Calculus I ve COMP 107 kodlu Computer Programming (Matlab) dersleri başarı ile tamamlanmış olmalıdır."
+            ]
+    },
+    {  "tag" : "ce306",
+        "questions" :
+            [
+                "CE 306 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "CE 306 almak için ön şart var mı?",
+                "Hydraulics dersinin ön koşulları nelerdir?",
+                "CE 306 ön şartları nedir?",
+                "Hydraulics dersi hangi derslerle bağlı?",
+                "Hydraulics dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "CE 306 kodlu Hydraulics dersinin alınabilmesi için FLM 301 kodlu Fluid Mechanics dersi başarı ile tamamlanmış olmalıdır."
+            ]
+    },
+    {  "tag" : "ce304",
+        "questions" :
+            [
+                "CE 304 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "CE 304 almak için ön şart var mı?",
+                "Theory of Structures II dersinin ön koşulları nelerdir?",
+                "CE 304 ön şartları nedir?",
+                "Theory of Structures II dersi hangi derslerle bağlı?",
+                "Theory of Structures 2 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "CE 304 kodlu Theory of Structures II dersinin alınabilmesi için CE 303 kodlu Theory of Structures I dersi başarı ile tamamlanmış olmalıdır."
+            ]
+    },
+    {  "tag" : "ce302",
+        "questions" :
+            [
+                "CE 302 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "CE 302 almak için ön şart var mı?",
+                "Foundation Engineering dersinin ön koşulları nelerdir?",
+                "CE 302 ön şartları nedir?",
+                "Foundation Engineering dersi hangi derslerle bağlı?",
+                "Foundation Engineering dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "CE 302 kodlu Foundation Engineering dersinin alınabilmesi için CE 301 kodlu Soil Mechanics dersi başarı ile tamamlanmış olmalıdır."
+            ]
+    },
+    {  "tag" : "flm301",
+        "questions" :
+            [
+                "FLM 301 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "FLM 301 almak için ön şart var mı?",
+                "Fluid Mechanics dersinin ön koşulları nelerdir?",
+                "FLM 301 ön şartları nedir?",
+                "Fluid Mechanics dersi hangi derslerle bağlı?",
+                "Fluid Mechanics dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "FLM 301 kodlu Fluid Mechanics dersinin alınabilmesi için PHYS 103 kodlu Soil Mechanics dersi başarı ile tamamlanmış olmalıdır ayrıca MATH 213 kodlu Differential Equations ders yan koşul olarak sağlanmalıdır."
+            ]
+    },
+    {  "tag" : "ce303",
+        "questions" :
+            [
+                "CE 303 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "CE 303 almak için ön şart var mı?",
+                "Theory of Structures I dersinin ön koşulları nelerdir?",
+                "CE 303 ön şartları nedir?",
+                "Theory of Structures I dersi hangi derslerle bağlı?",
+                "Theory of Structures 1 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "CE 303 kodlu Theory of Structures I dersinin alınabilmesi için STM 203 kodlu Strength of Materials dersi başarı ile tamamlanmış olmalıdır."
+            ]    
+    },
+    {  "tag" : "ce301",
+        "questions" :
+            [
+                "CE 301 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "CE 301 almak için ön şart var mı?",
+                "Soil Mechanics dersinin ön koşulları nelerdir?",
+                "CE 301 ön şartları nedir?",
+                "Soil Mechanics dersi hangi derslerle bağlı?",
+                "Soil Mechanics dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "CE 301 kodlu Soil Mechanics dersinin alınabilmesi için STM 203 kodlu Strength of Materials dersi başarı ile tamamlanmış olmalıdır."
+            ]    
+    },
+    {  "tag" : "stm203",
+        "questions" :
+            [
+                "STM 203 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "STM 203 almak için ön şart var mı?",
+                "Strength of Materials dersinin ön koşulları nelerdir?",
+                "STM 203 ön şartları nedir?",
+                "Strength of Materials dersi hangi derslerle bağlı?",
+                "Strength of Materials dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "STM 203 kodlu Strength of Materials dersinin alınabilmesi için STAT 102 kodlu Engineering Mechanics: Statics dersi başarı ile tamamlanmış olmalıdır."
+            ]    
+    },
+    {  "tag" : "dyn201",
+        "questions" :
+            [
+                "DYN 201 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "DYN 201 almak için ön şart var mı?",
+                "Engineering Mechanics: Dynamics dersinin ön koşulları nelerdir?",
+                "DYN 201 ön şartları nedir?",
+                "Engineering Mechanics: Dynamics dersi hangi derslerle bağlı?",
+                "Engineering Mechanics: Dynamics dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "DYN 201 kodluEngineering Mechanics: Dynamics dersinin alınabilmesi için PHYS 103 kodlu Physics I dersi yan şart olarak sağlanmalıdır."
+            ]    
+    },
+    {  "tag" : "chem101",
+        "questions" :
+            [
+                "CHEM 101 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "CHEM 101 almak için ön şart var mı?",
+                "General Chemistry dersinin ön koşulları nelerdir?",
+                "CHEM 101 ön şartları nedir?",
+                "General Chemistry dersi hangi derslerle bağlı?",
+                "General Chemistry dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "CHEM 101 kodlu General Chemistry dersinin alınabilmesi için CHEM 101 L kodlu General Chemistry Lab dersi yan şart olarak sağlanmalıdır."
+            ]    
+    },
+    {  "tag" : "chem101l",
+        "questions" :
+            [
+                "CHEM 101 L dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "CHEM 101 Lab almak için ön şart var mı?",
+                "General Chemistry Lab dersinin ön koşulları nelerdir?",
+                "CHEM 101L ön şartları nedir?",
+                "General Chemistry Lab dersi hangi derslerle bağlı?",
+                "General Chemistry Lab dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "CHEM 101 L kodlu General Chemistry Lab dersinin alınabilmesi için CHEM 101 kodlu General Chemistry dersi yan şart olarak sağlanmalıdır."
+            ]    
+    }
+]

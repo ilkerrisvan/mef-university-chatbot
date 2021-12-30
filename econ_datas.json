@@ -1,0 +1,274 @@
+[
+    {
+        "tag" : "econ404",
+        "questions" :
+            [
+                "ECON 404 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ECON 404 almak için ön şart var mı?",
+                "Ekonomi Seminer II dersinin ön koşulları nelerdir?",
+                "ECON 404 ön şartları nedir?",
+                "Ekonomi Seminer 2 dersi hangi derslerle bağlı?",
+                "Ekonomi Seminer 2 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ECON 404 kodlu Ekonomi Seminer II dersinin alınabilmesi için ECON 301 kodlu Ekonometri I dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "econ402",
+        "questions" :
+            [
+                "ECON 402 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ECON 402 almak için ön şart var mı?",
+                "Finansal Ekonomi dersinin ön koşulları nelerdir?",
+                "ECON 402 ön şartları nedir?",
+                "Finansal Ekonomi dersi hangi derslerle bağlı?",
+                "Finansal Ekonomi dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ECON 402 kodlu Finansal Ekonomi dersinin alınabilmesi için ECON 204 kodlu Makroekonomik Teori II dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "econ403",
+        "questions" :
+            [
+                "ECON 403 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ECON 403 almak için ön şart var mı?",
+                "Ekonomi Seminer I dersinin ön koşulları nelerdir?",
+                "ECON 403 ön şartları nedir?",
+                "Ekonomi Seminer 1 dersi hangi derslerle bağlı?",
+                "Ekonomi Seminer 1 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ECON 403 kodlu Ekonomi Seminer I dersinin alınabilmesi için ECON 202 kodlu Mikroekonomik Teori II ve ECON 204 kodlu Makroekonomik Teori II derslerinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "econ401",
+        "questions" :
+            [
+                "ECON 401 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ECON 401 almak için ön şart var mı?",
+                "Endüstriyel Organizasyon dersinin ön koşulları nelerdir?",
+                "ECON 401 ön şartları nedir?",
+                "Endüstriyel Organizasyon dersi hangi derslerle bağlı?",
+                "Endüstriyel Organizasyon dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ECON 401 kodlu Endüstriyel Organizasyon dersinin alınabilmesi için ECON 202 kodlu Mikroekonomik Teori II dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "econ304",
+        "questions" :
+            [
+                "ECON 304 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ECON 304 almak için ön şart var mı?",
+                "Uluslararası Ekonomi dersinin ön koşulları nelerdir?",
+                "ECON 304 ön şartları nedir?",
+                "Uluslararası Ekonomi dersi hangi derslerle bağlı?",
+                "Uluslararası Ekonomi dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ECON 304 kodlu Uluslararası Ekonomi dersinin alınabilmesi için ECON 202 kodlu Mikroekonomik Teori II dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "econ302",
+        "questions" :
+            [
+                "ECON 302 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ECON 302 almak için ön şart var mı?",
+                "Ekonometri II dersinin ön koşulları nelerdir?",
+                "ECON 302 ön şartları nedir?",
+                "Ekonometri 2 dersi hangi derslerle bağlı?",
+                "Ekonometri 2 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ECON 302 kodlu Ekonometri II dersinin alınabilmesi için ECON 301 kodlu Ekonometri I dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "eng302",
+        "questions" :
+            [
+                "ENG 302 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ENG 302 almak için ön şart var mı?",
+                "Mesleki İngilizce dersinin ön koşulları nelerdir?",
+                "ENG 302 ön şartları nedir?",
+                "Mesleki İngilizce dersi hangi derslerle bağlı?",
+                "Mesleki İngilizce dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ENG 302 kodlu Mesleki İngilizce dersinin alınabilmesi için ENG 102 kodlu Akademik Amaçlı İngilizce II dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "econ303",
+        "questions" :
+            [
+                "ECON 303 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ECON 303 almak için ön şart var mı?",
+                "Ekonomik Araştırma ve İletişim dersinin ön koşulları nelerdir?",
+                "ECON 303 ön şartları nedir?",
+                "Ekonomik Araştırma ve İletişim dersi hangi derslerle bağlı?",
+                "Ekonomik Araştırma ve İletişim dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ECON 303 kodlu Ekonomik Araştırma ve İletişim dersinin alınabilmesi için ECON 101 kodlu Mikroekonomi ve ECON 102 kodlu Makroekonomi derslerinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "econ301",
+        "questions" :
+            [
+                "ECON 301 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ECON 301 almak için ön şart var mı?",
+                "Ekonometri I dersinin ön koşulları nelerdir?",
+                "ECON 301 ön şartları nedir?",
+                "Ekonometri 1 dersi hangi derslerle bağlı?",
+                "Ekonometri 1 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ECON 301 kodlu Ekonometri I dersinin alınabilmesi için MATH 204 kodlu Sosyal Bilimler İçin Olasılık ve İstatistik II dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "econ206",
+        "questions" :
+            [
+                "ECON 206 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ECON 206 almak için ön şart var mı?",
+                "Oyun Kuramı dersinin ön koşulları nelerdir?",
+                "ECON 206 ön şartları nedir?",
+                "Oyun Kuramı dersi hangi derslerle bağlı?",
+                "Oyun Kuramı dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ECON 206 kodlu Oyun Kuramı dersinin alınabilmesi için MATH 103 kodlu Sosyal Bilimler İçin Matematik I dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "econ204",
+        "questions" :
+            [
+                "ECON 204 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ECON 204 almak için ön şart var mı?",
+                "Oyun Kuramı dersinin ön koşulları nelerdir?",
+                "ECON 204 ön şartları nedir?",
+                "Makroekonomik Teori 2 dersi hangi derslerle bağlı?",
+                "Makroekonomik Teori 2 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ECON 204 kodlu Makroekonomik Teori II dersinin alınabilmesi için ECON 203 kodlu Makroekonomik Teori I dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "econ202",
+        "questions" :
+            [
+                "ECON 202 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ECON 202 almak için ön şart var mı?",
+                "Mikroekonomik Teori II  dersinin ön koşulları nelerdir?",
+                "ECON 202 ön şartları nedir?",
+                "Mikroekonomik Teori II dersi hangi derslerle bağlı?",
+                "Mikroekonomik Teori II dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ECON 202 kodlu Mikroekonomik Teori II dersinin alınabilmesi için ECON 201 kodlu Mikroekonomik Teori I dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "math204",
+        "questions" :
+            [
+                "MATH 204 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "MATH 204 almak için ön şart var mı?",
+                "Sosyal Bilimler İçin Olasılık ve İstatistik II  dersinin ön koşulları nelerdir?",
+                "MATH 204 ön şartları nedir?",
+                "Sosyal Bilimler İçin Olasılık ve İstatistik 2 dersi hangi derslerle bağlı?",
+                "Sosyal Bilimler İçin Olasılık ve İstatistik 2 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "MATH 204 kodlu Sosyal Bilimler İçin Olasılık ve İstatistik II dersinin alınabilmesi için MATH 203 kodlu Sosyal Bilimler için Olasılık ve İstatistik I dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "econ205",
+        "questions" :
+            [
+                "ECON 205 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ECON 205 almak için ön şart var mı?",
+                "Ekonomi İçin Matematik  dersinin ön koşulları nelerdir?",
+                "ECON 205 ön şartları nedir?",
+                "Ekonomi İçin Matematik dersi hangi derslerle bağlı?",
+                "Ekonomi İçin Matematik dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ECON 205 kodlu Ekonomi İçin Matematik dersinin alınabilmesi için MATH 104 kodlu Sosyal Bilimler İçin Matematik II dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "econ203",
+        "questions" :
+            [
+                "ECON 203 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ECON 203 almak için ön şart var mı?",
+                "Makroekonomik Teori I  dersinin ön koşulları nelerdir?",
+                "ECON 203 ön şartları nedir?",
+                "Makroekonomik Teori 1 dersi hangi derslerle bağlı?",
+                "Makroekonomik Teori 1 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ECON 203 kodlu Makroekonomik Teori I dersinin alınabilmesi için ECON 102 kodlu Makroekonomi ve MATH 104 kodlu Sosyal Bilimler İçin Matematik II derslerin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "econ201",
+        "questions" :
+            [
+                "ECON 201 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "ECON 201 almak için ön şart var mı?",
+                "Mikroekonomik Teori I  dersinin ön koşulları nelerdir?",
+                "ECON 201 ön şartları nedir?",
+                "Mikroekonomik Teori 1 dersi hangi derslerle bağlı?",
+                "Mikroekonomik Teori 1 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "ECON 201 kodlu Mikroekonomik Teori I dersinin alınabilmesi için ECON 101 kodlu Mikroekonomi ve MATH 104 kodlu Sosyal Bilimler İçin Matematik II derslerin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "math104",
+        "questions" :
+            [
+                "MATH 104 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "MATH 104 almak için ön şart var mı?",
+                "Sosyal Bilimler İçin Matematik II  dersinin ön koşulları nelerdir?",
+                "MATH 104 ön şartları nedir?",
+                "Sosyal Bilimler İçin Matematik 2 dersi hangi derslerle bağlı?",
+                "Sosyal Bilimler İçin Matematik 2 dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "MATH 104 kodlu Sosyal Bilimler İçin Matematik II dersinin alınabilmesi için MATH 103 kodlu Sosyal Bilimler İçin Matematik I dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    }
+]

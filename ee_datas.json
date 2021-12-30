@@ -1,0 +1,195 @@
+[
+    {
+        "tag" : "ee492",
+        "questions" :
+            [
+                "EE 492 almak için hangi dersleri vermiş olmam gerekiyor?",
+                "EE 492 almak için ön şartlar nedir?",
+                "EE Senior Design Project II ön koşulları nelerdir?",
+                "EE Senior Design Project 2 ön koşulları nelerdir?",
+                "EE 491 almadan EE 492 alabilir miyim?",
+                "EE 491 dersini almadan EE 492 alınır mı?"
+            ],
+        "answers" :
+            [
+                "EE 492 kodlu Senior Design II dersinin alınabilmesi için EE 491 kodlu Senior Design Project I dersinin başarı ile tamamlanmış olması gerekmektedir."
+
+            ]
+    },
+    {
+        "tag" : "ee491",
+        "questions" :
+            [
+                "4. Sınıf olmadan EE 491 alabilir miyim?",
+                "EE 491 almanın ön şartları nedir?",
+                "Bitirme dersini almak için ne gerekli?",
+                "Kaç kredi ile bitirme alınabilir?",
+                "Senior Design Project I ön koşulları nelerdir?",
+                "Bitirmeyi nasıl alabilirim?"
+            ],
+        "answers" :
+            [
+                "EE 491 kodlu Senior Design I dersinin alınabilmesi için öğrencinin kredi bazında dördüncü sınıf öğrencisi olması gerekmektedir."
+            ]
+    },
+    {
+        "tag" : "ee308",
+        "questions" :
+            [
+                "EE 308 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "EE 308 almak için ön şart var mı?",
+                "EE Engineering Design Studio dersinin ön koşulları nelerdir?",
+                "EE 308 ön şartları nedir?",
+                "EE Engineering Design Studio dersi hangi derslerle bağlı?",
+                "EE Engineering Design Studio dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "EE 308 kodlu EE Engineering Design Studio dersinin alınabilmesi için EE 201 kodlu Circuit Analysis I dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "ee304",
+        "questions" :
+            [
+                "EE 304 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "EE 304 almak için ön şart var mı?",
+                "Electromagnetic Fields dersinin ön koşulları nelerdir?",
+                "EE 304 ön şartları nedir?",
+                "Electromagnetic Fields dersi hangi derslerle bağlı?",
+                "Electromagnetic Fields dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "EE 304 kodlu Electromagnetic Fields dersinin alınabilmesi için MATH 213 kodlu Differential Equations dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "ee302",
+        "questions" :
+            [
+                "EE 302 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "EE 302 almak için ön şart var mı?",
+                "Introduction to Digital Signal Processing dersinin ön koşulları nelerdir?",
+                "EE 302 ön şartları nedir?",
+                "Introduction to Digital Signal Processing dersi hangi derslerle bağlı?",
+                "Introduction to Digital Signal Processing dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "EE 302 kodlu Introduction to Digital Signal Processing dersinin alınabilmesi için EE 204 kodlu Signals and Systems dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "math226",
+        "questions" :
+            [
+                "MATH 226 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "MATH 226 almak için ön şart var mı?",
+                "Numerical Methods for EE dersinin ön koşulları nelerdir?",
+                "MATH 226 ön şartları nedir?",
+                "Numerical Methods for EE dersi hangi derslerle bağlı?",
+                "Numerical Methods for EE dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "MATH 226 kodlu Numerical Methods for EE dersinin alınabilmesi için COMP 109 kodlu Computer Programming (Java) dersinin, MATH 116 kodlu Calculus II dersinin ve MATH 211 kodlu Linear Algebra dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "ee305",
+        "questions" :
+            [
+                "EE 305 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "EE 305 almak için ön şart var mı?",
+                "Digital Electronics dersinin ön koşulları nelerdir?",
+                "EE 305 ön şartları nedir?",
+                "Digital Electronics dersi hangi derslerle bağlı?",
+                "Digital Electronics dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "EE 305 kodlu Digital Electronics dersinin alınabilmesi için EE 206 kodlu Analysis of Microelectronic Circuits and Devices dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "ee303",
+        "questions" :
+            [
+                "EE 303 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "EE 303 almak için ön şart var mı?",
+                "Systems and Control dersinin ön koşulları nelerdir?",
+                "EE 303 ön şartları nedir?",
+                "Systems and Control dersi hangi derslerle bağlı?",
+                "Systems and Control dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "EE 303 kodlu Systems and Control dersinin alınabilmesi için MATH 213 kodlu Differential Equations dersinin başarı ile tamamlanması, EE 204 kodlu Signals and Systems dersinin veya EE 202 kodlu Circuit Analysis II dersin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "ee301",
+        "questions" :
+            [
+                "EE 301 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "EE 301 almak için ön şart var mı?",
+                "Introduction to Analog and Digital Communications dersinin ön koşulları nelerdir?",
+                "EE 301 ön şartları nedir?",
+                "Introduction to Analog and Digital Communications dersi hangi derslerle bağlı?",
+                "Introduction to Analog and Digital Communications dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "EE 301 kodlu Introduction to Analog and Digital Communications dersinin alınabilmesi için EE 204 kodlu Signals and Systems dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "ee204",
+        "questions" :
+            [
+                "EE 204 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "EE 204 almak için ön şart var mı?",
+                "Signals and Systems dersinin ön koşulları nelerdir?",
+                "EE 204 ön şartları nedir?",
+                "Signals and Systems dersi hangi derslerle bağlı?",
+                "Signals and Systems dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "EE 204 kodlu Signals and Systems dersinin alınabilmesi için MATH 115 kodlu Calculus I dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "ee202",
+        "questions" :
+            [
+                "EE 202 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "EE 202 almak için ön şart var mı?",
+                "Circuit Analysis II dersinin ön koşulları nelerdir?",
+                "EE 202 ön şartları nedir?",
+                "Circuit Analysis 2 dersi hangi derslerle bağlı?",
+                "Circuit Analysis iki dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "EE 202 kodlu Circuit Analysis II dersinin alınabilmesi için EE 201 kodlu Circuit Analysis I dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    },
+    {
+        "tag" : "ee201",
+        "questions" :
+            [
+                "EE 202 dersini almak için hangi dersleri başarılı olarak tamamlamak gerekiyor?",
+                "EE 202 almak için ön şart var mı?",
+                "Circuit Analysis II dersinin ön koşulları nelerdir?",
+                "EE 202 ön şartları nedir?",
+                "Circuit Analysis 2 dersi hangi derslerle bağlı?",
+                "Circuit Analysis iki dersini alabilmek için hangi dersleri vermiş olmam gerekli?"
+            ],
+        "answers" :
+            [
+                "EE 201 kodlu Circuit Analysis I dersinin alınabilmesi için MATH 115 kodlu Calculus I dersinin başarı ile tamamlanmış olması gerekmektedir. "
+            ]
+    }
+]
